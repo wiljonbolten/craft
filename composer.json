@@ -1,0 +1,21 @@
+{
+    "name": "wiljonbolten/uber-craftcms",
+    "description": "Starter to setup Craft CMS 3 projects",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "project"
+    ],
+    "type": "project",
+    "license": "AGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Wiljon Bolten",
+            "email": "wiljon@uberhub.dev"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.7"
+    }
+}
